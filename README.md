@@ -19,7 +19,8 @@ This project demonstrates how I hosted a **static portfolio website** using **Am
 ---
 
 ##  Architecture Diagram
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d10e4ff3-9d7a-493e-b06c-c270bddc8fe4" />
+
+![architecture](https://github.com/user-attachments/assets/1dcc4fd6-6e66-415b-abe0-4f9854010fff)
 
 **Flow**:  
 👤 User → 🌐 CloudFront (HTTPS) → 📦 S3 Bucket (Static Website)
