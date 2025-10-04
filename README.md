@@ -14,7 +14,7 @@ This project demonstrates how I hosted a **static portfolio website** using **Am
 
 ##  Repository Contents
 - `documentation.pdf` → Full project report with screenshots   
-- `demo.mp4` → demo video  
+- `demo.mp4` →  demo video in README.md  
 
 ---
 
